@@ -5,7 +5,7 @@
     "timeBetweenShots": 0.0,
     "reloadTime": 0.1,
     "price": 1100,
-    "clipName": "weaponary:oneBlasterShot",
+    "clipName": "weaponary:oneBlasterShotClip",
     "gunLength": 0.165,
     "displayName": "infinity-Blaster",
     "lightOnShot": true,

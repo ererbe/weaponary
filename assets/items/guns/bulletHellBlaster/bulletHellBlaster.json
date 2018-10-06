@@ -6,7 +6,7 @@
     "timeBetweenShots": 0.0,
     "reloadTime": 0.01,
     "price": 5000,
-    "clipName": "weaponary:oneBlasterShot",
+    "clipName": "weaponary:oneBlasterShotClip",
     "gunLength": 0.4,
     "displayName": "bullet Hell Blaster",
     "lightOnShot": true,

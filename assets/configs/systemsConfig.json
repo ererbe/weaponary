@@ -8,7 +8,7 @@
 		 "constantEnemies": [
             {
                 "hull": "core:pirateMedium",
-                "items": "weaponary:bulletHellBlaster weaponary:infinityBlaster 0.5|core:bigShield core:lightArmor",
+                "items": "weaponary:bulletHellBlaster 0.5|weaponary:infinityBlaster core:bigShield core:lightArmor",
                 "money": 250,
                 "density": 2
             }
@@ -36,7 +36,7 @@
             },
 			{
                 "hull": "core:pirateSpaceTurret",
-                "items": "weaponary:infinityBlaster core:shield 0.2|",
+                "items": "weaponary:infinityBlaster0.25|core:shield",
                 "money": 200,
                 "density": 0.0001
             },
