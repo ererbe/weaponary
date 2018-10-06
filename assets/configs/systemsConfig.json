@@ -36,7 +36,7 @@
             },
 			{
                 "hull": "core:pirateSpaceTurret",
-                "items": "weaponary:infinityBlaster0.25|core:shield",
+                "items": "weaponary:infinityBlaster 0.25|core:shield",
                 "money": 200,
                 "density": 0.0001
             },
