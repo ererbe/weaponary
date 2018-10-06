@@ -1,0 +1,19 @@
+{
+    "fixed": true,
+    "maxAngleVar": 1,
+    "angleVarDamp": 1,
+    "angleVarPerShot": 0.1,
+    "timeBetweenShots": 1,
+    "reloadTime": 2,
+    "price": 1500,
+    "clipName": "weaponary:snipeBlasterClip",
+    "gunLength": 0.2,
+    "displayName": "sniper Blaster",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "reloadSounds": [
+        "core:gunReload"
+    ]
+}

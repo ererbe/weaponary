@@ -1,0 +1,19 @@
+{
+    "fixed": true,
+    "maxAngleVar": 100,
+    "angleVarDamp": 4,
+    "angleVarPerShot": 5,
+    "timeBetweenShots": 0.0,
+    "reloadTime": 0.01,
+    "price": 5000,
+    "clipName": "weaponary:oneBlasterShot",
+    "gunLength": 0.4,
+    "displayName": "bullet Hell Blaster",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "reloadSounds": [
+        "core:gunReload"
+    ]
+}

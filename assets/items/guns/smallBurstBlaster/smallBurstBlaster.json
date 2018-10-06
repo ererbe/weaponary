@@ -1,0 +1,18 @@
+{
+    "maxAngleVar": 30,
+    "angleVarDamp": 6,
+    "angleVarPerShot": 2,
+    "timeBetweenShots": 0.33,
+    "reloadTime": 1.2,
+    "price": 100,
+    "clipName": "weaponary:blasterBurstMediumClip",
+    "gunLength": 0.15,
+    "displayName": "small burst Blaster",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "reloadSounds": [
+        "core:gunReload"
+    ]
+}

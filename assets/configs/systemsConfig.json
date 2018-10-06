@@ -1,0 +1,57 @@
+{
+    "standard": {
+        "trading": {
+            "items": "weaponary:doubleBlaster weaponary:smallBurstBlaster weaponary:mediumBurstBlaster weaponary:heavyBurstBlaster weaponary:infinityBlaster weaponary:blasterGadling weaponary:heavyBlasterGadling weaponary:snipeBlaster weaponary:bulletHellBlaster",
+	    "ships": "core:imperialBig core:imperialCapital",
+            "mercenaries": [ ]
+        },
+		 "constantEnemies": [
+            {
+                "hull": "core:pirateMedium",
+                "items": "weaponary:bulletHellBlaster weaponary:infinityBlaster 0.5|core:bigShield core:lightArmor",
+                "money": 250,
+                "density": 2
+            }
+        ],
+		"temporaryEnemies": [
+            {
+                "hull": "core:pirateSpaceTurret",
+                "items": "weaponary:doubleBlaster",
+                "money": 50,
+                "density": 0.0007
+            },
+			 {
+                "hull": "core:pirateSpaceTurret",
+                "items": "weaponary:smallBurstBlaster",
+                "money": 60,
+                "density": 0.0003
+            }
+        ],
+		"innerTemporaryEnemies": [
+            {
+                "hull": "core:pirateSpaceTurret",
+                "items": "weaponary:mediumBurstBlaster core:shield",
+                "money": 100,
+                "density": 0.0003
+            },
+			{
+                "hull": "core:pirateSpaceTurret",
+                "items": "weaponary:infinityBlaster core:shield 0.2|",
+                "money": 200,
+                "density": 0.0001
+            },
+            {
+                "hull": "core:pirateMedium",
+                "items": "weaponary:blasterGadling core:lightArmor core:bigShield",
+                "money": 250,
+                "density": 0.0002
+            },
+            {
+                "hull": "core:pirateMedium",
+                "items": "weaponary:snipeBlaster core:lightArmor core:bigShield",
+                "money": 200,
+                "density": 0.0004
+            }
+        ]
+    }
+}

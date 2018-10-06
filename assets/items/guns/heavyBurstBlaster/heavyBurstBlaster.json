@@ -1,0 +1,19 @@
+{
+    "fixed": true,
+    "maxAngleVar": 7,
+    "angleVarDamp": 6,
+    "angleVarPerShot": 1,
+    "timeBetweenShots": 0.1,
+    "reloadTime": 1.8,
+    "price": 250,
+    "clipName": "weaponary:blasterBurstHeavyClip",
+    "gunLength": 0.16,
+    "displayName": "heavy Burst Blaster",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "reloadSounds": [
+        "core:gunReload"
+    ]
+}

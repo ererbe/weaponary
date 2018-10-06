@@ -1,0 +1,19 @@
+{
+    "bigBlast": {
+        "dmg": 12,
+        "dmgType": "energy",
+        "spdLen": 10,
+
+        "tex": "core:blast",
+        "texSz": 0.3,
+
+        "collisionEffect": {
+            "effectFile": "core:explFire",
+            "size": 1,
+            "tex": "core:fire",
+            "tint": "180 70 200"
+        },
+
+        "collisionSound": "core:blastCollision"
+    }
+}

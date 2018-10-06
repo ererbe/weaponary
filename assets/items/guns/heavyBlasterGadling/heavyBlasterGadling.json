@@ -1,0 +1,19 @@
+{
+    "fixed": true,
+    "maxAngleVar": 40,
+    "angleVarDamp": 4,
+    "angleVarPerShot": 5,
+    "timeBetweenShots": 0.05,
+    "reloadTime": 5,
+    "price": 1000,
+    "clipName": "weaponary:gadlingBlasterClip",
+    "gunLength": 0.17,
+    "displayName": "heavy Blaster Gadling",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "reloadSounds": [
+        "core:gunReload"
+    ]
+}

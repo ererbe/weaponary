@@ -1,0 +1,11 @@
+{
+    "id" : "weaponary",
+    "version" : "0.4.0",
+    "displayName" : "more default like weapons",
+    "description" : "This module is created by ererbe",
+    "dependencies" : [
+        {
+            "id" : "core"
+        }
+    ]
+}
