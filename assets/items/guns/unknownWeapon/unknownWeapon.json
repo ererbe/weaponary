@@ -1,0 +1,19 @@
+{
+    "maxAngleVar": 1,
+    "angleVarDamp": 1,
+    "angleVarPerShot": 0.1,
+    "timeBetweenShots": 0.3,
+    "reloadTime": 1,
+    "price": 8000,
+    "clipName": "weaponary:unknownClip",
+    "gunLength": 0.3,
+    "displayName": "unknown Weapon",
+    "lightOnShot": true,
+    "shootSounds": [
+        "core:blasterShoot"
+    ],
+    "shootSoundPitch": 0.6,
+    "reloadSounds": [
+        "core:fixedGunReload"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "junk": {
+        "isMetal": false,
+
+        "bosses": [
+            {
+                "hull": "weaponary:minerCrazyBoss",
+                "items": "weaponary:unknownWeapon weaponary:unknownWeapon core:advancedArmor core:advancedShield+core:bigShield",
+                "money": 1000
+            }
+        ]
+    }
+}

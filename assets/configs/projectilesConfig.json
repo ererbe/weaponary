@@ -15,5 +15,22 @@
         },
 
         "collisionSound": "core:blastCollision"
+    },
+	    "unknownProjectile": {
+        "dmg": 25,
+        "dmgType": "energy",
+        "spdLen": 10,
+
+        "tex": "weaponary:unknown",
+        "texSz": 0.3,
+
+        "collisionEffect": {
+            "effectFile": "core:explFire",
+            "size": 3,
+            "tex": "core:electricity",
+            "tint": "150 0 255"
+        },
+
+        "collisionSound": "core:blastCollision"
     }
 }
