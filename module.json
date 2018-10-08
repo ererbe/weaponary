@@ -1,8 +1,8 @@
 {
     "id" : "weaponary",
     "version" : "0.6.0",
-    "displayName" : "Weaponary",
-    "description" : "This module is created by ererbe and it adds more default like weapons, a special weapon and a boss",
+    "displayName" : "more default like weapons",
+    "description" : "This module is created by ererbe",
     "dependencies" : [
         {
             "id" : "core"

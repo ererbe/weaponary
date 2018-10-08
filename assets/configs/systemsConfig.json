@@ -1,7 +1,7 @@
 {
     "standard": {
         "trading": {
-            "items": "weaponary:doubleBlaster weaponary:smallBurstBlaster weaponary:mediumBurstBlaster weaponary:heavyBurstBlaster weaponary:infinityBlaster weaponary:blasterGadling weaponary:heavyBlasterGadling weaponary:snipeBlaster weaponary:bulletHellBlaster weaponary:unknownWeapon",
+            "items": "weaponary:doubleBlaster weaponary:smallBurstBlaster weaponary:mediumBurstBlaster weaponary:heavyBurstBlaster weaponary:infinityBlaster weaponary:blasterGadling weaponary:heavyBlasterGadling weaponary:snipeBlaster weaponary:bulletHellBlaster",
 	    "ships": "core:imperialBig core:imperialCapital",
             "mercenaries": [ ]
         },
